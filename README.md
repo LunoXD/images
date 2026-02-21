@@ -1,3 +1,3 @@
 # images
 
-https://github.com/LunoXD/images/blob/main/Appicons/vscode.png
+![VS Code Icon](https://raw.githubusercontent.com/LunoXD/images/main/Appicons/vscode.png)
